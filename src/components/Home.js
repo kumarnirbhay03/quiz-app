@@ -7,7 +7,7 @@ function Home(props){
         <div className='container'>
             <br></br>
             <div className='row text-white text-center heading'>
-                A platform that allow
+                Quizing app for fun.
             </div>
             <br></br>
             <div className='row text-center'>
