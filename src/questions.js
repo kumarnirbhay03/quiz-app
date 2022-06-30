@@ -32,14 +32,14 @@ const questions=[
         choices:["Karakoram","Lhotse","Makalu","Mount Everest"],
         correct: 4,
         desc: "Mount Everest(8849m)",
-        image: "https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg",
+        image: "https://media.istockphoto.com/photos/evening-view-of-ama-dablam-picture-id478627080?s=612x612",
     },
     {
         question:'Which city is famous for RED FORT?',
         choices:["Agra","Delhi","Kolkata","Mumbai"],
         correct: 4,
         desc: "Mount Everest(8849m)",
-        image: "https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg",
+        image: "https://cdn.britannica.com/84/124684-004-07547A0D/Red-Fort-Old-Delhi-India.jpg",
     },
 ];
 export default questions;
